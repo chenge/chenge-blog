@@ -17,19 +17,6 @@ function Bio() {
               marginBottom: rhythm(2.5),
             }}
           >
-            <Image
-              fixed={data.avatar.childImageSharp.fixed}
-              alt={author}
-              style={{
-                marginRight: rhythm(1 / 2),
-                marginBottom: 0,
-                minWidth: 50,
-                borderRadius: `100%`,
-              }}
-              imgStyle={{
-                borderRadius: `50%`,
-              }}
-            />
             <p>
               Written by <strong>{author}</strong> who lives and works in 
               Shanghai China building useful things.
