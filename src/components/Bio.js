@@ -22,7 +22,7 @@ function Bio() {
               Shanghai China building useful things.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                You should follow him on Twitter or email: chenge3k at qq.com
               </a>
             </p>
           </div>
